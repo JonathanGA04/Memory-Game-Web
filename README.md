@@ -1,5 +1,5 @@
 ﻿# Memory-Game-Web
-<h2>🧠 Memory Game<br></h2>
+🧠 Memory Game<br>
 Un Memory Game interactivo construido con HTML, CSS y JavaScript. El objetivo del juego es encontrar y emparejar todas las cartas en el menor tiempo posible.<br>
 
 🚀 Características<br>
