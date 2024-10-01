@@ -1,0 +1,62 @@
+body{
+    background: rgb(2,0,36);
+    background-image: url('assets/fondo.jpg') ;
+    font-family: sans-serif;
+    color: black;
+}
+main{
+    width: 730px;
+    margin: 100px auto 50px;
+    display: flex;
+    align-items: center;
+    
+}
+.section1{
+    background-color: rgba(19, 16, 16, 0.2);
+    padding: 0 10px 10px 10px;
+    border-radius: 8px;
+}
+h1{
+    text-align: center;
+}
+button{
+    border-radius: 20px;
+    
+    height: 100px;
+    width: 100px;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.section2{
+    background-color: rgba(19, 16, 16, 0.2);
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    width: 250px;
+    height: 400px;
+    padding: 0 20px ;
+}
+.estadisticas{
+    border: 2px solid black;
+    border-radius: 8px;
+    height: 105px;
+    padding: 8px 20px;
+    box-sizing: border-box;
+}
+footer{
+    text-align: center;
+    font-size: 20px;
+}
+a{
+    transition: all 0.3s ease;
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    
+}
+a:hover{
+    color: white;
+}
+img{
+    width: 80%;
+}
